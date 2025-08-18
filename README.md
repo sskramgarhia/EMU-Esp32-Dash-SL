@@ -27,3 +27,10 @@ Component	Description	Buy
 ESP32 JC2432W328	2.4" or 2.8" TFT with JST header CN1	🛒 AliExpress
 
 NeoPixel 8x1 LED Strip	WS2812B RGB LED strip	🛒 AliExpress
+
+
+📁 Coming Soon
+
+🧩 3D-printable case files (STL)
+
+🎥 Demo video
